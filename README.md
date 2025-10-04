@@ -40,7 +40,7 @@ Here you'll find selected projects demonstrating my skills in data cleaning, ana
   - Created DAX measures including **MoM %** and **Avg Transaction Value**. 
   - Identified **top products generating revenues**. 
   - Revealed that revenue doubled in 6 months, with peak demand on **weekday mornings**. 
-- [🔗 View Project Repository](https://github.com/yourusername/powerbi-coffee-shop-sales-dashboard)
+- [🔗 View Project Repository](https://github.com/nmakmal/powerbi-coffee-shop-sales-dashboard)
 
 ---
 
