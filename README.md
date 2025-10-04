@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nik
 
-📊 **Aspiring Data Analyst | Excel | SQL**  
+📊 **Data Analyst | Excel | SQL | Power BI**  
 Welcome to my Portfolio!  
 Here you'll find selected projects demonstrating my skills in data cleaning, analysis, visualization, and storytelling.  
 
@@ -9,7 +9,7 @@ Here you'll find selected projects demonstrating my skills in data cleaning, ana
 ## 👨🏻‍💼 About Me  
 - 🎓 Completed **Google Data Analytics Professional Certificate**  
 - 📈 Skilled in **data cleaning, analysis, and visualization**  
-- 🛠️ Tools I use: **Excel, SQL, Power BI, Tableau**  
+- 🛠️ Tools I use: **Excel, SQL, Power BI**  
 
 ---
 
@@ -31,14 +31,26 @@ Here you'll find selected projects demonstrating my skills in data cleaning, ana
 - **Highlights:** Cleaned the dataset from 2361 rows to 1955 rows **(15.5% reduction)**
 - [🔗 View Project Repository](https://github.com/nmakmal/sql-world-layoffs-data-cleaning)  
 
+### ☕ Coffee Shop Sales Performance & Store Benchmarking Dashboard   
+- Interactive Power BI dashboard analyzing **149K+ transactions** from 3 coffee shop locations (Jan–Jun). 
+- **Goal:** Benchmark store performance, identify top-performing categories and products driving revenue, and uncover customer purchasing patterns. 
+- **Tools:** Power BI (Power Query, DAX, Data Modeling) 
+- **Highlights:** 
+  - Built KPI cards (Total Revenue, Total Transactions, Total Units Sold, Avg. Transaction Value). 
+  - Created DAX measures including **MoM %** and **Avg Transaction Value**. 
+  - Identified **top products generating revenues**. 
+  - Revealed that revenue doubled in 6 months, with peak demand on **weekday mornings**. 
+- [🔗 View Project Repository](https://github.com/yourusername/powerbi-coffee-shop-sales-dashboard)
+
 ---
 
 ## 🛠️ Skills  
 
 - **Data Wrangling & Cleaning** → Excel (Power Query), SQL  
 - **Exploratory Data Analysis (EDA)** → PivotTables, descriptive statistics, trend analysis  
-- **Visualization & Dashboards** → Excel
+- **Visualization & Dashboards** → Excel, Power BI
 
+  
 ---
 
 ## 📫 Let’s Connect  
